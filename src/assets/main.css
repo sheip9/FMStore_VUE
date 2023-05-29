@@ -1,0 +1,17 @@
+* {
+    font-family: Arial,PingFang SC,Hiragino Sans GB,STHeiti,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+}
+html{
+    background-image: url("https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp");
+    height:100%
+}
+/*body{*/
+/*    !*height:100%*!*/
+/*}*/
+#app{
+    min-width: 1080px;
+    min-height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
